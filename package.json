@@ -1,0 +1,23 @@
+{
+  "name": "tiendaonline",
+  "version": "1.0.0",
+  "description": "Proyecto para web 1 Universidad Nur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pabloescm/TiendaOnline.git"
+  },
+  "author": "Pablo Estenssoro S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloescm/TiendaOnline/issues"
+  },
+  "homepage": "https://github.com/pabloescm/TiendaOnline#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.10.0"
+  }
+}
